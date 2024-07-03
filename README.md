@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Chimeziri Obioha. I'm a Python backend programmer with experience working independently and part-time since 2020. I'm now looking to collaborate and contribute within a great team moving forward.
+- 👋 Hi, I'm Chimeziri Obioha. I'm a Python backend programmer with experience working independently and part-time since 2020. I'm now looking to collaborate and contribute in a great team moving forward.
 
 - 👀 My major projects in the last four years are https://Tradepally.com, https://Safenatty.com and https://Treasurebill.com, all of which I founded.
 
